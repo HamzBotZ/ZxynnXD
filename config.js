@@ -17,11 +17,11 @@ global.author = 'Hamzz'
 global.pemilik = ['6288214989352'] 
 global.ownernomer = '6288214989352'
 global.ownername = 'Hamzz'
-global.botname = 'Zxynn - MD'
+global.botname = 'HamzBotz'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6288214989352'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.footer = 'HamzBotzXGanz'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Hamzz' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'By HamzGanz.'
@@ -49,13 +49,13 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Orang Sabar Disayang Janda..',
     error: 'Fitur sedang error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
-    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
+    example1: 'Welcome @user Beban Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
-    example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
+    example2: 'Good Bye @user Beban Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
     
 }
     global.limitawal = {
