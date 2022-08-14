@@ -36,7 +36,7 @@ global.email = 'hamzbotzz546@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeHamzX'
-global.packname = '"{\nAuthor: Hamzz"\n"Bot Number: 62881023363385"\n"Bot Name: Zxynn - MD"\n"Instagram: @hamzz.jr"\n}' 
+global.packname = '"{\nAuthor: Hamzz"\n"Bot Number: 62881023363385"\n"Bot Name: ZxynnBotz"\n"Instagram: @hamzz.jr"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -71,7 +71,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./media/zaki.jpg')
+global.thumb = fs.readFileSync('./media/20220726_143341.jpg')
 global.fakeImg = fs.readFileSync('./media/fake.jpg')
 
 //Ambil dr chika
